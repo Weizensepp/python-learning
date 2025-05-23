@@ -11,7 +11,7 @@ import random
 def main():
     """Main entry point of the program."""
     try:
-        print("Starting program")
+        print("Starting program!")
         # Output results
         rnd = random.randint(1, 10)
         while True:
